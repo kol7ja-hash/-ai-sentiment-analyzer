@@ -29,3 +29,4 @@
 1. Клонируйте репозиторий:
 git clone https://github.com/kol7ja-hash/ai-sentiment-analyzer.git
 cd ai-sentiment-analyzer
+
